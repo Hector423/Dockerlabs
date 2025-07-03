@@ -1,4 +1,6 @@
 
+# Máquina borazuwarahctf
+
 Primero de todo empiezo haciendo un ping para comprobar si tengo conexión con la máquina
 
 ![[Pasted image 20250618120834.png]]
