@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trust.md",
+                "file": "Máquinas fáciles/Psycho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trust"
+              "title": "Psycho"
             }
           }
         ]
@@ -170,29 +170,34 @@
   },
   "active": "2aa72b37ac9c65b2",
   "lastOpenFiles": [
-    "breakmySSH.md",
-    "firsthacking.md",
-    "hedgehog.md",
-    "injection.md",
-    "Máquina borazuwarahctf.md",
-    "Máquina Vacaciones.md",
-    "Obsession.md",
-    "tproot.md",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608124029.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608122426.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608123515.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608124010.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608122951.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608120003.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608120849.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608122157.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608122047.png",
-    "Imagenes Dockerlabs/Imagenes Injection/Pasted image 20250608120728.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250706112846.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250706111723.png",
+    "Máquinas fáciles/Psycho.md",
+    "Imagenes Dockerlabs/Imagenes psycho",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707194404.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707194335.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707185439.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707184821.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707184441.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707182701.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707182432.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707181427.png",
+    "Imagenes Dockerlabs/Imagenes psycho/Pasted image 20250707181236.png",
+    "Máquinas muy faciles/firsthacking.md",
+    "Máquinas muy faciles/breakmySSH.md",
+    "Máquinas muy faciles/trust.md",
+    "Máquinas fáciles",
+    "Máquinas muy faciles",
+    "Máquinas muy faciles/hedgehog.md",
+    "Máquinas muy faciles/injection.md",
+    "Máquinas muy faciles/Máquina borazuwarahctf.md",
+    "Máquinas muy faciles/Máquina Vacaciones.md",
+    "Máquinas muy faciles/Obsession.md",
+    "Máquinas muy faciles/tproot.md",
     "Imagenes Dockerlabs/Imagenes Injection",
     "Imagenes Dockerlabs/Imagenes pequenas_mentirosas",
     "Imagenes Dockerlabs/Imagenes Trust",
     "Imagenes Dockerlabs/Imagenes borazowah",
-    "Imagenes Dockerlabs",
-    "trust.md"
+    "Imagenes Dockerlabs"
   ]
 }
