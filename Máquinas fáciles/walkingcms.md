@@ -4,7 +4,6 @@
 ### Nmap
 
 Primero realizo un escaneo inicial para ver los puertos abiertos
-asd
 
 ![](<../Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250921133901.png>)
 
