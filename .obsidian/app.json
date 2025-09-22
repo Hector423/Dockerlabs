@@ -1,4 +1,7 @@
 {
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "Imagenes Dockerlabs",
+  "useMarkdownLinks": true
 }
