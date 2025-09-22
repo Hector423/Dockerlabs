@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of tproot"
             }
+          },
+          {
+            "id": "cb9d32664b30b407",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,18 +176,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b032164ffcdcb9f1",
   "lastOpenFiles": [
-    "Máquinas fáciles/Psycho.md",
+    "Untitled.md",
+    "Untitled.base",
     "Máquinas fáciles/walkingcms.md",
+    "Máquinas muy faciles/firsthacking.md",
+    "Máquinas fáciles/Psycho.md",
     "Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250921133901.png",
     "Máquinas muy faciles/tproot.md",
     "Máquinas muy faciles/hedgehog.md",
     "Imagenes Dockerlabs/Imagenes Walkingcms",
-    "Untitled.base",
     "Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250922174051.png",
     "Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250922173956.png",
     "Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250922173846.png",
@@ -192,7 +205,6 @@
     "Imagenes Dockerlabs/Imagenes Walkingcms/Pasted image 20250922170448.png",
     "Máquinas muy faciles/trust.md",
     "Imagenes Dockerlabs/Imagenes psycho",
-    "Máquinas muy faciles/firsthacking.md",
     "Máquinas muy faciles/breakmySSH.md",
     "Máquinas fáciles",
     "Máquinas muy faciles",
